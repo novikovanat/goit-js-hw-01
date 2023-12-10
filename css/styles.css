@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 12px 0;
+}
+
+body {
+    font-size: 18px;
+}
+
+.container {
+    width: 200px;
+    margin: 25px auto;
+}
+
+a {
+    display: block;
+}
+
+#task-three-first {
+    text-align: center;
+    width: 74px;
+    margin: auto;
+    background-color: red;
+}
+
+#task-three-second {
+    text-align: center;
+    width: 101px;
+    margin: auto;
+    background-color: orange;
+}
+
+#task-three-third {
+    text-align: center;
+    width: 200px;
+    margin: auto;
+    background-color: green;
+
+}
